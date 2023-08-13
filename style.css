@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-heading {
+    font-size: 20px;
+    padding: 10px;
+    font-family: Roboto;
+    color: #183b56;
+
+}
+
+.main-paragraph {
+    margin-top: 10px;
+    padding: 10px;
+    font-family: Roboto;
+}
+
+.conference-details-container {
+    height: 90vh;
+    background-size: cover;
+    padding: 10px;
+    width: 65vh;
+}
+
+.heading-paragraph {
+    padding: 20px;
+    margin-left: 45px;
+    font-size: 15px;
+    font-family: Roboto;
+    margin-right: 45px;
+}
+
+.conference-heading {
+    font-size: 30px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.last-paragraph {
+    color: #5a7184;
+    margin-left: 0vh;
+}
+
+.btn-primary {
+    width: 18vh;
+    margin-left: 60px;
+    margin-top: 15px;
+    font-family: Roboto;
+}
+
+
+.conference-video-container {
+    height: 110vh;
+    width: 65vh;
+    padding: 15px;
+    font-family: Roboto;
+}
+
+.end-paragraph {
+    margin-left: 45px;
+    font-family: Roboto;
+    color: #5a7184;
+}
+
+.number-heading {
+    margin: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Roboto;
+
+}
+
+.number-paragraph {
+    margin: 30px;
+    margin-top: -20px;
+    font-family: Roboto;
+    color: #5a7184;
+}
+
+.last-heading-paragraph {
+    margin-top: 10px;
+    font-family: Roboto;
+}
